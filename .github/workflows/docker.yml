@@ -20,4 +20,4 @@ jobs:
         with:
           context: foosball/
           push: true
-          tags: mareishawb/foosball:${{github.run_number}}
+          tags: eman4002/foosball:${{github.run_number}}
