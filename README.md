@@ -15,4 +15,4 @@ This workflow is triggered every time we push to the main branch. The workflow p
 
 ## Usefulness of Docker + GitHub Actions
 
-Automating this process eliminates the need to rebuild and push the Docker image manually every time we update our HTML. Any change we push to GitHub instantly generates and uploads a new updated Docker image to Docker Hub. This setup reflects real-world CI/CD (Continuous Integration and Continuous Deployment) practices commonly used in professional software development to make deployment faster, more consistent, and more reliable.
+Automating this process eliminates the need to rebuild and push the Docker image manually every time we update our HTML. Any change we push to GitHub instantly generates and uploads a new updated Docker image to Docker Hub. This setup reflects real-world CI/CD (Continuous Integration and Continuous Deployment) practices commonly used in professional software design and development to make deployment faster, more consistent, and more reliable.
